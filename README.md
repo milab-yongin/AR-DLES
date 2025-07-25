@@ -3,6 +3,17 @@ This is the official repository for AR-DLES: Repetition Counting from Aperiodic 
 
 **Note:** Our paper is currently under review. The full code, dataset details, and evaluation results will be released upon publication.
 
+<table>
+    <td>
+    <video src="https://github.com/user-attachments/assets/b0cc4caa-e3f4-43dc-a122-8f305dc5e24a" width="480" controls></video>
+  </td>
+  <td>
+      <video src="https://github.com/user-attachments/assets/baa9348b-fe4b-47c6-a13f-345393d7d674" width="480" controls></video>
+    </td>
+</table>
+
+see more demo video in [Video Demo](#Video-Demo) Section
+
 
 
 
@@ -34,6 +45,32 @@ follow instruction [pose_extract_utils/README.md](./pose_extract_utils/README.md
 ## Evaluation and Optimization
 
 ## Video Demo
+
+
+<table>
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/ad4481a4-9774-4065-9a28-a00e2c30559f" width="480" controls></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/ea755ab8-7e6c-4c9c-b798-c14dde32e0a7" width="480" controls></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/1c2f5736-76b6-4d6f-beb5-10be73753f5d" width="480" controls></video>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/8e517c4f-727f-4b14-ab1b-2d80051eb65d" width="480" controls></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/16d6ba5c-6347-4601-986a-b6e165865d77" width="480" controls></video>
+    </td>
+    <td>
+      <video src="https://github.com/user-attachments/assets/a6c64a57-00ba-4c5e-8a6c-da52f1cb38ce" width="480" controls></video>
+    </td>
+  </tr>
+</table>
 
 ## Citation
 
