@@ -1,9 +1,8 @@
-# AR-DLES: Repetition Counting from Aperiodic Human Actions Using Joint Angle Derivative Patterns.
-
-
+# AR-DLES: Repetition Counting from Aperiodic Human Actions Using Joint Angle Derivative Patterns
 This is the official repository for AR-DLES: Repetition Counting from Aperiodic Human Actions Using Joint Angle Derivative Patterns.
 
-Code and Demo videos will be release when this project will be open upon the Published of our paper.
+**Note:** Our paper is currently under review. The full code, dataset details, and evaluation results will be released upon publication.
+
 
 
 
@@ -32,19 +31,9 @@ follow instruction [pose_extract_utils/README.md](./pose_extract_utils/README.md
 
 ## Preparing Dataset
 
-This section will be update when this project will be open upon the Published of our paper.
-
-
 ## Evaluation and Optimization
-This section will be update when this project will be open upon the Published of our paper.
-
-### Evaluation
-This section will be update when this project will be open upon the Published of our paper.
 
 ## Video Demo
-
-Demo videos for this project will be made publicly available upon the Published of our paper.
-
 
 ## Citation
 
