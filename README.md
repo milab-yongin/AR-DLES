@@ -5,16 +5,15 @@ This is the official repository for AR-DLES: Repetition Counting from Aperiodic 
 
 <table>
     <td>
-    <video src="https://github.com/user-attachments/assets/b0cc4caa-e3f4-43dc-a122-8f305dc5e24a" width="480" controls></video>
+    <video src="https://github.com/user-attachments/assets/b0cc4caa-e3f4-43dc-a122-8f305dc5e24a" width="480"  controls></video>
   </td>
   <td>
-      <video src="https://github.com/user-attachments/assets/baa9348b-fe4b-47c6-a13f-345393d7d674" width="480" controls></video>
+      <video src="https://github.com/user-attachments/assets/02153109-ae97-457e-bb28-90ce9da5bf2f" width="480"  controls></video>
     </td>
 </table>
 
+
 see more demo video in [Video Demo](#Video-Demo) Section
-
-
 
 
 ## Table of the Contents
